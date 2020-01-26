@@ -14,9 +14,17 @@ public class Details {
 		d.volume(3, 2, 1);
 		System.out.println(d.volume);
 		
+
 		System.out.println("1st line added");
 		System.out.println("2nd line added");
 		System.out.println("3rd line added");
+		
+		System.out.println("greens");
+		System.out.println("tech");
+		
+
+		
+
 	}
 	
 	
