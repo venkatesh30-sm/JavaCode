@@ -13,6 +13,10 @@ public class Details {
 		
 		d.volume(3, 2, 1);
 		System.out.println(d.volume);
+		
+		System.out.println("greens");
+		System.out.println("tech");
+		
 	}
 	
 	
